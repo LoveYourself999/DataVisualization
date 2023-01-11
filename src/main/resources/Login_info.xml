@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logininfo>
+    <crendential>
+        <username>a</username>
+        <password>1</password>
+    </crendential>
+    <crendential>
+        <username>b</username>
+        <password>2</password>
+    </crendential>
+    <crendential>
+        <username>c</username>
+        <password>3</password>
+    </crendential>
+</logininfo>
