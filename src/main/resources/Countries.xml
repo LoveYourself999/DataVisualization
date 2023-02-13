@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CountryList>
+    <Country>
+        <name>a</name>
+        <password>1</password>
+    </Country>
+    <Country>
+        <username>b</username>
+        <password>2</password>
+    </Country>
+    <Country>
+        <username>c</username>
+        <password>3</password>
+    </Country>
+</CountryList>
